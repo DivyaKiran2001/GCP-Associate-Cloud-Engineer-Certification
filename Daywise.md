@@ -34,5 +34,9 @@
 - Organization Policy Service
 - Resource Hierarchy and IAM Policy
 - IAM Predefined Roles (Organization Billing and Project , Compute Engine Roles ,  App Engine Roles , Google Kubernetes Engine (GKE) IAM Roles , Google Cloud Storage ,
-  Google Cloud BigQuery , Logging and Audit Logging , Service Accounts , Other Important IAM Roles , 
+  Google Cloud BigQuery , Logging and Audit Logging , Service Accounts , Other Important IAM Roles ,
+
+## ✅ Day 6
+- Load Balancing
+
 
