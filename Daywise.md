@@ -44,6 +44,19 @@
 - VPC Peering
 - Hybrid Cloud
 - Google kubernetes Engine (GKE)
+
+## ✅ Day 7
+- Cloud Run
+- Cloud Functions
+- Exploring Databases in Google Cloud Platform
+- 1. Cloud SQL
+  2. Cloud Spanner
+  3. Datastore
+  4. Firestore
+  5. Cloud BigTable
+  6. Memory Store
+  7. Big Query
+- Cloud Dataflow
   
 
 
