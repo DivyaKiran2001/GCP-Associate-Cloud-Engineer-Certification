@@ -38,5 +38,14 @@
 
 ## ✅ Day 6
 - Load Balancing
+- Virtual private Cloud (VPC)
+- Firewall Rules
+- Shared VPC
+- VPC Peering
+- Hybrid Cloud
+- Google kubernetes Engine (GKE)
+  
+
+
 
 
